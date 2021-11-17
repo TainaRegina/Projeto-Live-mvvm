@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133982953121",
+    "project_id": "aulamvvm",
+    "storage_bucket": "aulamvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133982953121:android:c89cbd09873d2f58261ae0",
+        "android_client_info": {
+          "package_name": "com.example.aulamvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133982953121-dv2ifgcgt1kdajnss079omj07cdrcqd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtmHOePWhrAxpiSSV_SwNd0pYlfVr-rUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133982953121-dv2ifgcgt1kdajnss079omj07cdrcqd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
